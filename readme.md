@@ -2,4 +2,4 @@
 
 Esta serie nos explica una una historia
 
-**Marc Assens**
+**Marc Assens**, Git Lover
